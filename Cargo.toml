@@ -1,0 +1,12 @@
+[package]
+name = "agent-tool-timeout"
+version = "0.1.0"
+edition = "2021"
+description = "Per-tool deadline enforcement for LLM agent tool calls"
+license = "MIT"
+repository = "https://github.com/MukundaKatta/agent-tool-timeout-rs"
+keywords = ["llm", "agent", "timeout", "deadline", "tools"]
+categories = ["development-tools"]
+exclude = ["target/*", ".github/*", "*.log"]
+
+[dependencies]

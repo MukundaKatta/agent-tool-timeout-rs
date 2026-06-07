@@ -2,8 +2,10 @@
 name = "agent-tool-timeout"
 version = "0.1.0"
 edition = "2021"
+rust-version = "1.70"
 description = "Per-tool deadline enforcement for LLM agent tool calls"
 license = "MIT"
+readme = "README.md"
 repository = "https://github.com/MukundaKatta/agent-tool-timeout-rs"
 keywords = ["llm", "agent", "timeout", "deadline", "tools"]
 categories = ["development-tools"]
